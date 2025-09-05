@@ -1,0 +1,94 @@
+# ✅ React Native To-Do List App
+
+A simple and elegant **To-Do List application** built with **React Native & Expo**.  
+This app allows users to add, delete, and manage tasks efficiently, with support for **dark mode**.  
+
+---
+
+## ✨ Features
+- ➕ Add new tasks  
+- ❌ Delete tasks  
+- 🌙 Dark mode support  
+- 📱 Works on Android, iOS, and Web (via Expo)  
+
+---
+
+## 📂 Project Structure
+
+react-native-todo-list/
+│── assets/            # Images & static assets
+│   └── screenshots/   # App screenshots
+│── node_modules/      # Dependencies (ignored in GitHub)
+│── App.js             # Main app component
+│── index.js           # Entry point
+│── app.json           # Expo configuration
+│── package.json       # Project metadata & dependencies
+│── .gitignore         # Ignored files (node_modules, etc.)
+
+---
+
+## 🛠️ Tech Stack
+- React Native  
+- Expo  
+- JavaScript (ES6+)  
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to open a PR or an issue.  
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.  
+
+---
+
+
+## 📸 Screenshots
+
+| In Web|
+|------------|
+| <img src="assets/screenshots/1.png" width="300"> | 
+| <img src="assets/screenshots/2.png" width="300"> | 
+| <img src="assets/screenshots/3.png" width="300"> |
+| <img src="assets/screenshots/4.png" width="300"> | 
+| <img src="assets/screenshots/5.png" width="300"> |
+
+| In Mobile|
+|------------|
+| <img src="assets/screenshots/6" width="300"> | 
+| <img src="assets/screenshots/7" width="300"> | 
+| <img src="assets/screenshots/8" width="300"> |
+| <img src="assets/screenshots/9" width="300"> | 
+
+
+
+
+
+
+
+---
+
+## ⚡ Installation & Running
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/react-native-todo-list.git
+cd react-native-todo-list
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the project
+Start the Expo development server:
+
+npx expo start
+
+- On Mobile: Scan the QR code with the Expo Go app (Android/iOS).
+- On Web: Press w in the terminal, or run:
+npx expo start --web
+
+
+
