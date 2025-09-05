@@ -95,10 +95,11 @@ npm install
 ### 3️⃣ Run the project (📱 Mobile)
 #### Start the Expo development server:
 npx expo start
-#### -On Mobile: Scan the QR code with the Expo Go app (Android/iOS).
+#### On Mobile: Scan the QR code with the Expo Go app (Android/iOS).
 
 ### 4️⃣ Run the project (💻 Web)
 npx expo start --web
+#### Or press w in the terminal when the server starts.
 
 
 
