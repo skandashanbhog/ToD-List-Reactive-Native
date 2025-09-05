@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 # ⚡ Installation & Running
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/your-username/react-native-todo-list.git
 cd react-native-todo-list
 
