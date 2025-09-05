@@ -22,7 +22,7 @@ This app allows users to add, delete, and manage tasks efficiently, with support
 
 ## 📂 Project Structure
 
-```bash
+
 react-native-todo-list/
 ├── 📁 assets/              # Images & static assets
 │   └── 📁 screenshots/     # App screenshots
