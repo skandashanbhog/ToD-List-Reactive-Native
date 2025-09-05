@@ -70,25 +70,28 @@ This project is licensed under the MIT License.
 
 
 ---
-
-## ⚡ Installation & Running
+# ⚡ Installation & Running
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/react-native-todo-list.git
 cd react-native-todo-list
 
-2️⃣ Install dependencies
+
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Run the project
-Start the Expo development server:
-
+### 3️⃣ Run the project (📱 Mobile)
+#### Start the Expo development server:
 npx expo start
+#### -On Mobile: Scan the QR code with the Expo Go app (Android/iOS).
 
-- On Mobile: Scan the QR code with the Expo Go app (Android/iOS).
-- On Web: Press w in the terminal, or run:
+### 4️⃣ Run the project (💻 Web)
 npx expo start --web
+
+
+
+
 
 
 
