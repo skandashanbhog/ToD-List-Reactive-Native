@@ -13,6 +13,13 @@ This app allows users to add, delete, and manage tasks efficiently, with support
 
 ---
 
+![Expo](https://img.shields.io/badge/Expo-SDK%2053-blue)
+![React Native](https://img.shields.io/badge/React%20Native-0.74-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+---
+
 ## 📂 Project Structure
 
 react-native-todo-list/
@@ -28,15 +35,16 @@ react-native-todo-list/
 ---
 
 ## 🛠️ Tech Stack
-- React Native  
-- Expo  
-- JavaScript (ES6+)  
-
+- ⚛️ React Native
+- 📱 Expo SDK 53
+- 💾 AsyncStorage (for local data)
+- 🎨 Styled Components / CSS
+ 
 ---
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to open a PR or an issue.  
+Feel free to fork this repo and submit a PR.
 
 ---
 
