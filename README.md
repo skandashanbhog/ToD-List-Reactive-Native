@@ -72,6 +72,17 @@ This project is licensed under the MIT License.
 ---
 # ⚡ Installation & Running
 
+## 🛠 Prerequisites
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)  
+  Install globally if not already installed:
+
+  npm install -g expo-cli
+
+
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/your-username/react-native-todo-list.git
