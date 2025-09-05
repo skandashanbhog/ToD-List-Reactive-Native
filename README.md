@@ -31,6 +31,7 @@ This app allows users to add, delete, and manage tasks efficiently, with support
 ├── ⚙️ app.json # Expo configuration
 ├── 📦 package.json # Project metadata & dependencies
 └── 📝 .gitignore # Ignored files (node_modules, etc.)
+
 ---
 
 ## 🛠️ Tech Stack
