@@ -1,3 +1,10 @@
+![Expo](https://img.shields.io/badge/Expo-SDK%2053-blue)
+![React Native](https://img.shields.io/badge/React%20Native-0.74-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+---
+
 # ✅ React Native To-Do List App
 
 A simple and elegant **To-Do List application** built with **React Native & Expo**.  
@@ -10,13 +17,6 @@ This app allows users to add, delete, and manage tasks efficiently, with support
 - ❌ Delete tasks  
 - 🌙 Dark mode support  
 - 📱 Works on Android, iOS, and Web (via Expo)  
-
----
-
-![Expo](https://img.shields.io/badge/Expo-SDK%2053-blue)
-![React Native](https://img.shields.io/badge/React%20Native-0.74-green)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ---
 
