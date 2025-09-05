@@ -22,16 +22,15 @@ This app allows users to add, delete, and manage tasks efficiently, with support
 
 ## 📂 Project Structure
 
-react-native-todo-list/
-│── assets/            # Images & static assets
-│   └── screenshots/   # App screenshots
-│── node_modules/      # Dependencies (ignored in GitHub)
-│── App.js             # Main app component
-│── index.js           # Entry point
-│── app.json           # Expo configuration
-│── package.json       # Project metadata & dependencies
-│── .gitignore         # Ignored files (node_modules, etc.)
-
+📦 react-native-todo-list/
+├── 📁 assets/ # Images & static assets
+│ └── 📁 screenshots/ # App screenshots
+├── 📁 node_modules/ # Dependencies (ignored in GitHub)
+├── 📄 App.js # Main app component
+├── 📄 index.js # Entry point
+├── ⚙️ app.json # Expo configuration
+├── 📦 package.json # Project metadata & dependencies
+└── 📝 .gitignore # Ignored files (node_modules, etc.)
 ---
 
 ## 🛠️ Tech Stack
