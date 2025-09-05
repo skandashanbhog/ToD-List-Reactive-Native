@@ -58,10 +58,10 @@ This project is licensed under the MIT License.
 
 | In Mobile|
 |------------|
-| <img src="assets/screenshots/6" width="300"> | 
-| <img src="assets/screenshots/7" width="300"> | 
-| <img src="assets/screenshots/8" width="300"> |
-| <img src="assets/screenshots/9" width="300"> | 
+| <img src="assets/screenshots/6.png" width="300"> | 
+| <img src="assets/screenshots/7.png" width="300"> | 
+| <img src="assets/screenshots/8.png" width="300"> |
+| <img src="assets/screenshots/9.png" width="300"> | 
 
 
 
